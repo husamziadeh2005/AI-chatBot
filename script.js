@@ -6,7 +6,7 @@ const userData = {
     message: null
 };
 
-const API_KEY = "your-real-api-key;";
+const API_KEY = " ";
 const API_URL =
     "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent";
 
